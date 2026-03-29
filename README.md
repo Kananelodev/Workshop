@@ -54,23 +54,6 @@ python3 -m pytest tests/test_mock_exam.py::TestMockExam::test_function_name -v
 
 ---
 
-## 📊 Scoring & Weighting
-
-| Component      | Weight |
-| -------------- | ------ |
-| Coding Section | 50%    |
-| Long Questions | 50%    |
-
-### Coding Score
-**Score = (Tests Passed / Total Tests) × 50%**
-
-### Long Question Score
-**Score = (Marks Earned / Total Marks) × 50%**
-
-### Final Score
-**Final Score = Coding Score + Long Question Score**  
-**Pass Mark: 60%**
-
 ---
 
 ## 📁 Project Structure
